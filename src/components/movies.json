@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSCe371X060CPHkKtpyC3IF5eXFvZdjyqgPXsUobjkQZOt9xY-",
+        "title": "conjuring",
+        "actor": "jack"
+    },
+    {
+        "id": 2,
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSCe371X060CPHkKtpyC3IF5eXFvZdjyqgPXsUobjkQZOt9xY-",
+        "title": "Doctor",
+        "actor": "sk"
+    },
+    {
+        "id": 3,
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSCe371X060CPHkKtpyC3IF5eXFvZdjyqgPXsUobjkQZOt9xY-",
+        "title": "beast",
+        "actor": "vijay"
+    },
+    {
+        "id": 4,
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSCe371X060CPHkKtpyC3IF5eXFvZdjyqgPXsUobjkQZOt9xY-",
+        "title": "valimai",
+        "actor": "ajith"
+    },
+    {
+        "id": 5,
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSCe371X060CPHkKtpyC3IF5eXFvZdjyqgPXsUobjkQZOt9xY-",
+        "title": "master",
+        "actor": "vijay"
+    }
+]
